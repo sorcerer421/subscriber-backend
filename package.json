@@ -1,0 +1,19 @@
+{
+  "name": "subscriber-backend",
+  "version": "1.0.0",
+  "description": "rest api to manage subscribers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://sorcerer421@github.com/sorcerer421/subscriber-backend.git"
+  },
+  "author": "sorcerer421",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/sorcerer421/subscriber-backend/issues"
+  },
+  "homepage": "https://github.com/sorcerer421/subscriber-backend#readme"
+}
